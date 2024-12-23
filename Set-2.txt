@@ -1,0 +1,8 @@
+1)Display which doctor treated most number of patients
+2)Which doctor treated more than 2 patients
+3)Display doctor wise patients treated
+4) List out Patient 'Aman' consulted doctor name
+5)Display monthwise yearwise number of patient treated by each doctor
+6)How many Ptients took treatment for fever
+7)Display patients got adimitted in previous month
+8)Diplay last 3 months how many patients treated
